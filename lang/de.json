@@ -46,7 +46,7 @@
   "hover-info": "Information",
   "about-info": "Über die App: Dies ist ein Timer, der verwendet werden kann, um die Diskussions- und Nominierungsphasen für das Social-Deduction-Spiel Blood on the Clocktower zu steuern. Rechts befinden sich die Steuerelemente des Timers, mit denen die aktuelle Zeit gestartet, angehalten, zurückgesetzt, bearbeitet und schnell anpasst werden kann. Um die Stadt sofort wieder zusammenzurufen (und damit den Timer zu stoppen), kann die Taste \"Versammlung einberufen\" gedrückt werden. Der Übergang zur nächsten Phase gelingt über die Schaltfläche \"Aufwachen\". Wenn Sie zum Abend (Nominierungsphase) wechseln, wird der Timer automatisch verkürzt. Der Timer wird auch verkürzt, wenn die Tage voranschreiten (um zu berücksichtigen, dass im Laufe des Spiels weniger Menschen leben). Ich wünsche viel Spaß!",
   "about-control": "Du kannst diese App auch über einstellbare Tastenkürzel steuern.",
-  "about-disclaimer": "Disclaimer: Clocktowertimer ist ein Open Source Projekt und hat keine Verbindung zu The Pandemonium Institute. Wir freuen uns über eine Mitarbeit auf <a href=\"https://github.com/tydood/clocktowertimer\">Github</a>.",
+  "about-disclaimer": "Disclaimer: Clocktowertimer ist ein Open Source Projekt und hat keine Verbindung zu The Pandemonium Institute. Wir freuen uns über eine Mitarbeit auf <a href=\"https://github.com/dennisschuerholz/clocktowertimer\">Github</a>.",
   "timer-title": "Timerwert",
   "timer-set": "Setze Timer",
   "timer-invalid-title": "Ungültiger Timerwert",

@@ -46,7 +46,7 @@
   "hover-info": "Information",
   "about-info": "About: This is a timer that can be used to track the discussion and nomination phases for the social deduction game Blood on the Clocktower. The timer controls can be found on the right, allowing to you start, stop, reset, edit, and quick adjust the current time. To recall the town immediately (stopping the timer) you can press the Recall Townsfolk button. You can advance to the next phase by pressing the \"Wake Up\" button. Switching to end of day (nomination phase) will automatically shorten the timer. The timer will also be shortened when advancing the days (to account for fewer alive people as the game progresses). Hope you enjoy!",
   "about-control": "You may also control this app using configurable keyboard-shortcuts.",
-  "about-disclaimer": "Disclaimer: Clocktowertimer is an open source project and is not affiliated with The Pandemonium Institute. Feel free to contribute on <a href=\"https://github.com/tydood/clocktowertimer\">Github</a>.",
+  "about-disclaimer": "Disclaimer: Clocktowertimer is an open source project and is not affiliated with The Pandemonium Institute. Feel free to contribute on <a href=\"https://github.com/dennisschuerholz/clocktowertimer\">Github</a>.",
   "timer-title": "Timer Value",
   "timer-set": "Set Timer",
   "timer-invalid-title": "Invalid Timer Value",

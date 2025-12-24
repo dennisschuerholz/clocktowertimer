@@ -26,7 +26,7 @@ if (state === 'request_user_auth') {
 }
 
 function requireAuth() {
-  clientId = document.getElementById('clientId').value || '9c288c96571e470db82a242089fb9cf6';
+  clientId = document.getElementById('clientId').value || '5ca6157f2f3c4180bb0894dbf2843f35';
   localStorage.setItem('spotify_client_id', clientId)
   requestUserAuth();
 }
